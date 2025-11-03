@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24c748d9d13940fc3b5b23a9f4b57ae4e9cf9452")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
