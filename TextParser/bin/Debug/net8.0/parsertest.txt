@@ -1,7 +1,13 @@
-number = 1000;
+number = 1000
 //이건 무시 되어야 함 
 //good = 101;
-/*
-good = 102;
 
-good = 253;
+good = 102
+
+/*
+여기도 무시 되어야 함
+str = "lovelovelove"
+*/
+
+str = "hi Good morning"
+
